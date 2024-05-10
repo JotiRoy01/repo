@@ -80,6 +80,7 @@ def index():
 
 if __name__ == "__main__":
     #app.run(host='127.0.0.1', port=8001, debug=True)
+<<<<<<< HEAD
 
 
 app.run(debug=True)
@@ -87,3 +88,11 @@ app.run(debug=True)
 #joti roy
 
 #i am in the master
+||||||| 46c2869
+	app.run(debug=True)
+=======
+	app.run(debug=True)
+
+
+    #now i am in joti master
+>>>>>>> joti
